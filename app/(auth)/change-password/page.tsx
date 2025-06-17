@@ -6,7 +6,7 @@ import { Eye, EyeOff, Fingerprint, Lock } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const ChangePasswordPage: FC = () => {
-  const [isShowPassword, setIsShowPassword] = useState<Boolean>(false);
+  const [isShowPassword, setIsShowPassword] = useState<boolean>(false);
 
   return (
     <>

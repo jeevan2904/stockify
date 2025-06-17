@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Eye, EyeOff, Lock, Mail } from "lucide-react";
 
 const LoginPage: FC = () => {
-  const [isShowPassword, setIsShowPassword] = useState<Boolean>(false);
+  const [isShowPassword, setIsShowPassword] = useState<boolean>(false);
 
   return (
     <>

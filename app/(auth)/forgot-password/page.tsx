@@ -16,7 +16,7 @@ const ForgotPasswordPage: FC = () => {
 
         <h2 className="font-semibold mt-4">Forgot your Password?</h2>
         <p className="text-xs font-thin">
-          No worries! We'll send you reset instructions:
+          No worries! We&apos;ll send you reset instructions:
         </p>
       </div>
 

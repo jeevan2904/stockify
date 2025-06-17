@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Eye, EyeOff, Lock, Mail, User } from "lucide-react";
 
 const SignUpPage: FC = () => {
-  const [isShowPassword, setIsShowPassword] = useState<Boolean>(false);
+  const [isShowPassword, setIsShowPassword] = useState<boolean>(false);
 
   return (
     <>
