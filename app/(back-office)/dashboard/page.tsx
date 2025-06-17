@@ -5,7 +5,7 @@ import { FC } from "react";
 const DashboardPage: FC = () => {
   return (
     <>
-      <h3>Dashboard Page</h3>
+      <h2>Dashboard Page</h2>
     </>
   );
 };
