@@ -6,3 +6,14 @@
 4. Add different routing layouts
    (Online-Store & Backoffice)
 5. Deploy project on Vercel.
+
+// EPISODE - 02
+
+1. Create different auth pages
+   - Login Page
+   - Sigh Up Page
+   - Forgot Password
+   - Change Password
+   - Verify Email
+2. Integrate dashboard from Shadcn.
+3. Deploy project on Vercel.
