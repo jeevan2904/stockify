@@ -17,3 +17,9 @@
    - Verify Email
 2. Integrate dashboard from Shadcn.
 3. Deploy project on Vercel.
+
+// EPISODE - 03
+
+1. Identify different modules & pages.
+2. Group pages with modules.
+3. Deploy project on Vercel.
