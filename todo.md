@@ -23,3 +23,7 @@
 1. Identify different modules & pages.
 2. Group pages with modules.
 3. Deploy project on Vercel.
+
+// EPISODE - 04
+
+1. Create Sidebar Navigation & Navbar.

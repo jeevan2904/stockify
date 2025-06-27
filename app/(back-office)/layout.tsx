@@ -2,13 +2,13 @@
 
 import { FC, ReactNode } from "react";
 
-import { Navbar } from "@/components/backoffice";
+import { Navbar, Sidebar } from "@/components/backoffice";
 
 const BackofficeLayout: FC<{ children: ReactNode }> = ({ children }) => {
   return (
     <>
       <div className="w-full min-h-screen relative">
-        <div className="fixed hidden md:block md:w-[220px] lg:w-[280px] h-full bg-muted/40 border-r"></div>
+        <Sidebar />
 
         <Navbar />
 
