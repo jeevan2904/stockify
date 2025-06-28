@@ -27,3 +27,11 @@
 // EPISODE - 04
 
 1. Create Sidebar Navigation & Navbar.
+2. Deploy Project on Vercel.
+
+// EPISODE - 05
+
+1. Install and setup Prisma & MongoDB.
+2. Create Category Model.
+3. Design Form & Form Inputs.
+4. Use React hook forms/ zod.

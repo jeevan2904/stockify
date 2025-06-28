@@ -3,4 +3,13 @@ import { AvatarMenu } from "./AvatarMenu";
 import { QuickAccessMenu } from "./QuickAccessMenu";
 import { Sidebar } from "./Sidebar";
 
-export { Navbar, AvatarMenu, QuickAccessMenu, Sidebar };
+import { FormHeader, CategoryForm } from "./forms";
+
+export {
+  Navbar,
+  AvatarMenu,
+  QuickAccessMenu,
+  Sidebar,
+  FormHeader,
+  CategoryForm,
+};
