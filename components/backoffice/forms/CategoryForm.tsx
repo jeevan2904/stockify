@@ -27,7 +27,7 @@ export const CategoryForm: FC = () => {
             <CardContent>
               <div className="w-full h-[100px] border rounded-sm p-1">
                 <Image
-                  src={""}
+                  src={"/"}
                   className="w-full object-cover"
                   alt="category-image"
                   width="300"
