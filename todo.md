@@ -5,3 +5,14 @@
 3. Create Footer & Header (For Online-Store).
 4. Create different layouts (For Online-Store & Backoffice).
 5. Deploy app on Vercel.
+
+// EPISODE - 02
+
+1. Create different Auth Pages
+   - Login
+   - Signup
+   - Forgot Password
+   - Change Password
+   - Verify Email
+2. Integrate Dashboard from Shadcn.
+3. Deploy app on Vercel.
